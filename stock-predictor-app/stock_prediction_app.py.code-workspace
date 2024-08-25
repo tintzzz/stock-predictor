@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../photo app/my-app"
+		},
+		{
+			"name": "parking-analyzer",
+			"path": "../../Koko-parking/parking-analyzer"
+		},
+		{
+			"path": "../streamlit-develop"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
